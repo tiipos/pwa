@@ -13,13 +13,13 @@
 
 ### Introdução
 
-O Capítulo 1 trata sobre o conceito de PWA(Progressive Web Application), que é uma aplicação que pode e deve ser executada de 
+O capítulo 1 trata sobre o conceito de PWA(Progressive Web Application), que é uma aplicação que pode e deve ser executada de 
 forma independente de sua plataforma(Mobile, Desktop, Etc..), tecnologia usada, e de uma conexão com a internet. Trata também sobre
 os componentes e serviços essenciais para o bom funcionamento da aplicação.
 
 ### Requisitos e Protocólos
 
-O Capítulo também aborda alguns tópicos sobre protocólos usados na transferência de dados através da rede. Os protocólos 
+O capítulo também aborda alguns tópicos sobre protocólos usados na transferência de dados através da rede. Os protocólos 
 citados são o SSL(Secure Sockets Layer, usado para segurança na transferência), TSL(Transport Layer Security, sucessor do SSL), e
 os protocólos HTTP(Usado na comunicaçõ entre servidor e cliente) e HTTPS(Versão segura do HTTP).
 
@@ -34,5 +34,3 @@ velocidade de conexão do usuário; E, por fim, cada página deve ter uma URL.
 
 No final, O Capítulo apresenta um exemplo de PWA chamada Be Happy with Me, seu propósito, os passos de sua execução e explica como 
 alguns componentes das páginas são reaproveitados em outras.
-
-# CARPE DIEM
