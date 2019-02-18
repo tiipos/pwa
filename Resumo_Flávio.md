@@ -1,7 +1,7 @@
 # Resumo
 ## Info
-  **Aluno**:Flávio Henrique Silva Maria
-  **Livro**:Progressive Web App
+  **Aluno**: Flávio Henrique Silva Maria
+  **Livro**: Progressive Web App
   
 ## Objetivo
 
