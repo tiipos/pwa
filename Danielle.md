@@ -5,16 +5,16 @@
 ## Objetivo 
 - Resumir o 1º capitulo do livro 
 ## Meu resumo 
-PWA são aplicações progressivas, ou seja, de melhoria progressiva e que buscam atender o maior número de pessoas possível. Trata-se de uma criação voltada para a experiência do usuário, dos quais terão acesso a plataforma sem restrições tecnológicas. Tais aplicações são avaliadas de acordo com o cumprimento de alguns requisitos que sejam listados logo abaixo.
+PWA são aplicações progressivas, ou seja, de melhoria progressiva e que buscam atender o maior número de pessoas possível. Trata-se de uma criação voltada para a experiência do usuário, dos quais terão acesso a plataforma sem restrições tecnológicas. Tais aplicações são avaliadas de acordo com o cumprimento de alguns requisitos que serão listados logo abaixo.
 #### Requisitos 
 ##### 1. Deve registrar um Service Worker 
-O servisse worker é uma especificação da W3C que permite executar um trecho de código JavaScript continuamente no nível do navegador. Nas PWA o servisse worker atua no conjunto de elementos que atuaram no funcionamento offline da aplicação.  
+O servisse worker é uma especificação da W3C que permite executar um trecho de código JavaScript continuamente no nível do navegador. Nas PWA o servisse worker atua no conjunto de elementos que atuarão no funcionamento offline da aplicação.  
 
 ##### 2. Resposta com status 200 mesmo estando offline
 O status 200 consiste em um dos códigos de retorno do protocolo HTTP e denota o sucesso na solicitação. Esse requisito atua de maneira a garantir com que esse sucesso ocorra mesmo estando offline. 
 
 ##### 3. Deve exibir conteúdo quando o JavaScript estiver desabilitado 
-Essa funcionalidade consiste basicamente que uma PWA deve ter uma resposta programa no caso de o JavaScript estar desativado ou não seja suportado.
+Essa funcionalidade consiste basicamente que uma PWA deve ter uma resposta programada no caso de o JavaScript estar desativado ou não seja suportado.
 
 ##### 4. Usar HTTPS
 Uma aplicação progressiva não pode ter seus dados transmitidos em claro, ou seja, o protocolo HTTPS irá atuar na segurança dos dados que serão armazenados no download de dados inicial da aplicação. 
@@ -50,9 +50,9 @@ Os elementos do HTML são organizados através do DOM (Modelo de Objeto de docum
 Essa característica se atribui tecnicamente ao termo bookmarkable, que seria uma página que pode ser acessada por uma URL única. 
 
 #### Criando nosso backlog 
-Backlog seria uma espécie de lista de requisitos, no qual faz parte da organização de uma aplicação. Sendo assim, será iniciada uma aplicação utilizando os conceitos já apresentados. Os tópicos a seguir assumem um caráter fundamentalmente de fichamento, pois descreverão os passos demonstrados nos tópicos.
+Backlog seria uma espécie de lista de requisitos, no qual faz parte da organização de uma aplicação. Sendo assim, será iniciada uma aplicação utilizando os conceitos já apresentados. Os tópicos a seguir assumem um caráter fundamentalmente de um fichamento, pois descreverão os passos demonstrados nos tópicos.
 ##### 1. Histórias da PWA 
-Nesse tópico a simplesmente uma transcrição dos requisitos PWA em um quadro, de maneira a se dimensionar o que será necessário para o projeto cumprir. 
+Nesse tópico há simplesmente uma transcrição dos requisitos PWA em um quadro, de maneira a se dimensionar o que será necessário para o projeto cumprir. 
 Uma história pode ser considerada como um requisito. 
 
 ##### 2. Visão geral da aplicação 
@@ -62,7 +62,7 @@ Esse tópico foi direcionado para a descrição do projeto a ser construído (be
 Nesse tópico temos a descrição do protótipo da tela de novo usuário, demonstrando o momento inicial de download dos dados da aplicação. Os componentes aqui criados poderão ser usados durante o desenvolvimento do resto a aplicação.
 
 ##### 4. Demais funcionalidades 
-Esse tópico aborda a demais funcionalidades do projeto, do qual tem as funcionalidades inicial reaproveitadas. A aplicação conta com seis tipos de destinatários de uma gentileza, do qual pode ser agendada, ou já nascer concluída. 
+Esse tópico aborda a demais funcionalidades do projeto, do qual tem as funcionalidades iniciais reaproveitadas. A aplicação conta com seis tipos de destinatários de uma gentileza, do qual pode ser agendada, ou já nascer concluída. 
 As gentilezas podem ainda ser classificadas em cinco tipos: zap, bom-dia, ligação, aperto de mãos, abraço, doce e presente.
 Neste tópico também é apresentada a funcionalidade de listar gentilezas. 
 
