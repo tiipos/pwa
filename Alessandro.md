@@ -24,3 +24,13 @@ O tópico seguinte trata dos requisitos que devem ser atendidos por uma aplicaç
 **Carregamento rápido em 3G** – Nesse tópico é estipulado que o carregamento da página deve ser de no maximo 3 segundos.
 
 **O usuário deve ser questionado  se dejeja instalar a aplicação** – Novamente seguindo as recomendações da W3C, o usuário sempre deve ser indagado sobre o download de um arquivo, principalmente em mobiles.
+
+**Cada página deve ter uma URL** - Cada página deve poder ser acessada por uma URL única, este conceito é chamado de "bookmarkable".
+
+**Deve ser configurada com uma splash screen personalizada** - É uma espécie de "tela de carregamento" com o logo da aplicação que aparece antes do software carregar.
+
+**Implementar a metatag	viewport** - Trata-se de uma melhoria na viewport em dispositivos mobile.
+
+**Redimensionar	o conteúdo da página corretamente** - O site deve ser responsivo e se adaptar a todos os dispositivos e dimensões dos usuários.
+
+**As transições entre páginas não devem ser sensíveis à velocidade de	conexão** - Nesta parte do capítulo o livro introduz o conceito de DOM(Document	 Object	 Model). É basicamente um modelo de organização tanto do HTML quanto dos demais arquivos associados ao HTML.
