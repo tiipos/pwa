@@ -1,15 +1,15 @@
-#Resumo
+# Resumo
 
-##Informações
+## Informações
 
   **Aluno**: Jherod Brendon Alves dos Anjos  
   **Livro**: Progressive Web App
 
-##Objetivo
+## Objetivo
 
-  -Resumir o 1º capítulo do livro
+  - Resumir o 1º capítulo do livro
 
-##Meu resumo
+## Meu resumo
 
 O Capítulo 1 trata sobre o conceito de PWA(Progressive Web Application), que é uma aplicação que pode e deve ser executada de 
 forma independente de sua plataforma(Mobile, Desktop, Etc..) e de uma conexão com a internet.
