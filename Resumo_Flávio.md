@@ -34,3 +34,4 @@ retorno do codigo 200, que significa sucesso na solicitação, este, em uma apli
 Uma aplicação progressiva deve estar preparada para a falta, por qualquer que seja o motivo, do JavaScript, ou seja, deve ser funciional, mesmo sem esse recurso habilitado.
 
 ### - Aplicação deve funcionar mesmo com JavaScipt desabilitado 
+p
