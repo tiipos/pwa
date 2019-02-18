@@ -35,8 +35,11 @@ Após isso o autor da começa a apontar qual será o tamanho do projeto que a pa
 sendo assim ele apresenta 4 casos de uso:
 
 - Novo Usuário
+
 - Nova Gentileza
+
 - Listar Gentilezas
+
 - Perfil do Usuário
 
 Logo após ele fecha o cap. recapitulando o que nele foi mostrado.
