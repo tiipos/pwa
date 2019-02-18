@@ -34,6 +34,20 @@ Essa funcionalidade se justifica pela citada anteriormente. Consiste basicamente
 6. Deve carregar rapidamente no 3G 
 Considerando que a aplicação deve ter bom funcionamento em vários aspectos,  de maneira que o tempo de carregamento deve ser inferior a 3 segundos. 
 
+7. O usuário deve ser questionado da aplicação que quer instalar 
+
+8. Deve ser configurada com	uma	splash screen personalizada
+
+9. Colorir a barra de endereço do navegador 
+
+10. Implementar a metatag viewport
+
+11. Redimensionar o conteúdo da página corretamente 
+
+12. O site deve ser cross-browser
+
+13. Cada página deve ter uma URL 
+
 
 7. As transições entre páginas devem ser sensíveis 
 Essa funcionalidade atua no carregamento dos elementos HTML, dos quais são organizados através do DOM (Modelo de Objeto de Documento). Em curso normal, toda vez que uma página é carregada os elementos dos DOM são carregados novamente. Sendo assim, como uma aplicação PWA precisa funcionar em caso de excassez de internet, a aplicação deve se estruturar para que tal carregamento não precise acontecer. Posto isso, a maneira com que o livro aborda tal temática é mudando a apropriedade do CSS denominada display, no qual muda a visibilidade de elementos, de maneira que tal evento pode ser realizado a partir do clique de um botão, por exemplo. 
