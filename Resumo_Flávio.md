@@ -24,13 +24,13 @@ permite	qualificar	aplicações	web	em	relação	aos	requisitos	de melhoria	prog
 A aplicação deve funcionar sem internet e de preferencia com recursos do Service Worker, uma especificação pela qual é possivel
 implementar	 recursos	 offline	 e	 organizar	 o	 cache	 dos	 arquivos estáticos	da	página	web. 
 
-### Resposta com status 200
+### - Resposta com status 200
 
 Paginas web que trabalham sob o protocolo HTTP trabalham com varios status de retorno às solicitações dos browsers, e um deles é o 
 retorno do codigo 200, que significa sucesso na solicitação, este, em uma aplicação progessiva deve funcionar até mesmo offline.
 
-### Aplicação deve funcionar mesmo com JavaScipt desabilitado 
+### - Aplicação deve funcionar mesmo com JavaScipt desabilitado 
 
 Uma aplicação progressiva deve estar preparada para a falta, por qualquer que seja o motivo, do JavaScript, ou seja, deve ser funciional, mesmo sem esse recurso habilitado.
 
-### Aplicação deve funcionar mesmo com JavaScipt desabilitado 
+### - Aplicação deve funcionar mesmo com JavaScipt desabilitado 
