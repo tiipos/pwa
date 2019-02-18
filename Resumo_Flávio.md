@@ -1,11 +1,12 @@
 # Resumo
 ## Info
-  **Aluno**: Flávio Henrique Silva Maria
+
+  **Aluno**: Flávio Henrique Silva Maria  
   **Livro**: Progressive Web App
   
 ## Objetivo
 
-Resumi o capítulo 1 do livro.
+- Resumi o capítulo 1 do livro.
 
 ## Meu resumo
 
