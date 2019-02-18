@@ -20,7 +20,7 @@ palavras, uma aplicação universal e sem restriçoes tecnologicas (de plataform
 Os requisitos tratados inicialmente no capitulo se referem em sua maioria aos analisados pelo	Lighthouse, que	é	uma	ferramenta	que	
 permite	qualificar	aplicações	web	em	relação	aos	requisitos	de melhoria	progressiva.
 
-### Service Worker
+### - Service Worker
 A aplicação deve funcionar sem internet e de preferencia com recursos do Service Worker, uma especificação pela qual é possivel
 implementar	 recursos	 offline	 e	 organizar	 o	 cache	 dos	 arquivos estáticos	da	página	web. 
 
@@ -31,5 +31,6 @@ retorno do codigo 200, que significa sucesso na solicitação, este, em uma apli
 
 ### Aplicação deve funcionar mesmo com JavaScipt desabilitado 
 
+Uma aplicação progressiva deve estar preparada para a falta, por qualquer que seja o motivo, do JavaScript, ou seja, deve ser funciional, mesmo sem esse recurso habilitado.
 
-
+### Aplicação deve funcionar mesmo com JavaScipt desabilitado 
