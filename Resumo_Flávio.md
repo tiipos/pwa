@@ -81,7 +81,7 @@ Conjunto de requisitos.
 
 ### Analise de uma PWA
 
-No fim do capitulo, o autor faz uma analise dos requisitos de histórias e épicos de uma aplicação progressiva de nome "Be	 happy	 with	 me", analisando cada uma das paginas e como os requisitos mostrados anteriormente se aplicam a aplicação em questão. 
+No fim do capitulo, o autor faz uma analise  histórias e épicos de uma aplicação progressiva de nome "Be	 happy	 with	 me", analisando cada uma das paginas e como os requisitos mostrados anteriormente se aplicam a aplicação em questão. 
 
 
 
