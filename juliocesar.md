@@ -23,3 +23,4 @@ As transições entre páginas de uma PWA não devem ser sensíveis a velocidade
 Finalmente, cada página de uma PWA deve ter um URL, e ele deve ser “bookmarkable”; ou seja, pode ser acessado por uma URL única. A URL também teve ter um nome amigável
 
 A segunda parte do capítulo descreve aspectos da aplicação. Esses aspectos não são, estritamente, critérios avaliados pelo Lightouse, mas ainda assim são essenciais. São características de performance, acessibilidade, usabilidade e boas práticas. 
+ 
